@@ -1,9 +1,9 @@
 {
-  "name" : "cheatbox",
+  "name" : "nohunger",
   "version" : "Beta v. Enraged Koala",
-  "path" : "cheatbox",
+  "path" : "nohunger",
   "metadata" : {
     "author" : "Matheod",
-    "description" : "Add a cheatBox to get various items for free."
+    "description" : "Disable player hunger."
   }
 }
